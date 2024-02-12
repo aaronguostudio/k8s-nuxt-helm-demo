@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: hotpotsdev.azurecr.io/demo/k8s-nuxt-helm-demo
+  repository: hotpotsdev.azurecr.io/aaronguostudio/k8s-nuxt-helm-demo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
